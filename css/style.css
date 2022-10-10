@@ -234,3 +234,20 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.gift {
+    background: #EFEFEF;
+    padding: 88px 0;
+    text-align: center;
+}
+
+.gift img {
+    margin-bottom: 45px;
+}
+
+.gift p {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 43px;
+    color: #252525;
+}
